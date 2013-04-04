@@ -4,12 +4,12 @@ Priority: extra
 Maintainer: Matt Joiner <anacrolix@gmail.com>
 Build-Depends: debhelper
 Standards-Version: 3.9.2
-Homepage: <insert the upstream URL, if relevant>
+Homepage: https://github.com/anacrolix/s4cmd
 #Vcs-Git: git://git.debian.org/collab-maint/s4cmd.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/s4cmd.git;a=summary
 
 Package: s4cmd
 Architecture: all
-Depends: ${misc:Depends}, python-boto (>= 2.3.0), python
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Depends: ${misc:Depends}, python-boto (>= 2.3.1), python
+Description: Super S3 command line tool
+ S4cmd is a command-line utility for accessing Amazon S3, inspired by s3cmd.

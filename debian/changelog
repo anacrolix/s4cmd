@@ -1,5 +1,11 @@
-s4cmd (1.5.9~git+6bdad3bd98) UNRELEASED; urgency=low
+s4cmd (1.5.9-1~git+6bdad3bd98) UNRELEASED; urgency=low
+
+  * Boto 2.3.0 gives attribute errors.
+
+ -- Matt Joiner <anacrolix@gmail.com>  Thu, 04 Apr 2013 15:48:40 +1100
+
+s4cmd (1.5.9~git+6bdad3bd98) lucid; urgency=low
 
   * Initial Release.
 
- -- Matt Joiner <anacrolix@gmail.com>  Fri, 22 Mar 2013 18:07:00 +1100
+ -- Matt Joiner <anacrolix@gmail.com>  Thu, 28 Mar 2013 10:48:01 +1100
