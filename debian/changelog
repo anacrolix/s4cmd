@@ -1,10 +1,16 @@
+s4cmd (1.5.9-2~git+6bdad3bd98) UNRELEASED; urgency=low
+
+  * Add --config option for custom s3cfg path.
+
+ -- Matt Joiner <anacrolix@gmail.com>  Mon, 13 May 2013 14:35:46 +1000
+
 s4cmd (1.5.9-1~git+6bdad3bd98) UNRELEASED; urgency=low
 
   * Boto 2.3.0 gives attribute errors.
 
  -- Matt Joiner <anacrolix@gmail.com>  Thu, 04 Apr 2013 15:48:40 +1100
 
-s4cmd (1.5.9~git+6bdad3bd98) lucid; urgency=low
+s4cmd (1.5.9~git+6bdad3bd98) UNRELEASED; urgency=low
 
   * Initial Release.
 
